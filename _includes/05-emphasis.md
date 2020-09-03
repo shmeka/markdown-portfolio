@@ -1,10 +1,8 @@
-# This class is awesome 
+# Skills
 
-*Below are reasons reason why*
+_Below is a list of my technical skills_
 
-- Learning is fun
-- Learning is great
-- Yay learning
+## Languages 
+- python
+- html
 
-## This is the only programming language I know 
-_python_
