@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# List of Shows
+- Bernie Mac
+- The Office
+- King of Queens
